@@ -1,0 +1,10 @@
+Follow these steps to successfully run this project:
+- sign up on https://www.weatherapi.com
+- generate an api-key in API section
+- copy and past the api-key in constants/index.js file
+- run "npm install"
+- run "npm run start"
+
+Youtube tutorial: https://youtu.be/953vyZMO4cM
+
+If you stuck somewhere contact me on buymeacoffee.com.
